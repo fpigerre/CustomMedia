@@ -1,0 +1,3 @@
+[submodule "xbmc"]
+	path = xbmc
+	url = https://github.com/xbmc/xbmc.git
