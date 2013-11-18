@@ -33,5 +33,6 @@ Compilation
 
 * Install ['Make'](http://www.gnu.org/software/make/)
 * Clone CustomMedia
+* ```./applyPatches.sh```
 * ```cd CustomMedia\CustomMedia```
 * Build the project using ```make```
